@@ -1,0 +1,3 @@
+## Reflection
+
+For lab 2, I also learn the usage of different types of apps, which is called DEEDS (Digital Electronics Education and Design Suite), a software that’s been used as a platform to increase the understanding of prototyping using digital simulation. Using DEEDS helps me more in understanding the complex variety of system design. This software helps me attain more knowledge about bringing the reality of signal behaviour from the theoretical truth table itself. Other than that, it also helps me in figuring out the complicated design of given logic gates and the final output of the design itself. I think this course should apply the usage of the DEEDS app more to increase the understanding of students in the classroom.
